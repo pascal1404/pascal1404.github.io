@@ -17,3 +17,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+remote_theme: artemsheludko/flexible-jekyll
