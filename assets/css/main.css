@@ -1021,7 +1021,7 @@ table tfoot td {
           align-items: stretch;
 }
 
-.sitemap .contact-title .blog-title .about-title .label-title .links-title {
+.contact .contact-title{
   position: relative;
   color: #333030;
   font-weight: 400;
@@ -1031,7 +1031,7 @@ table tfoot td {
   text-align: center;
 }
 
-.sitemap .contact-title::before {
+.contact .contact-title::before {
   content: "";
   display: block;
   height: 2px;
@@ -1046,7 +1046,7 @@ table tfoot td {
   background-color: #515151;
 }
 
-.sitemap .contact-title::after {
+.contact .contact-title::after {
   content: "";
   display: block;
   height: 2px;
